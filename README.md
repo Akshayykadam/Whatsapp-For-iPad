@@ -45,7 +45,7 @@ To use this project:
 
 ## Author
 
-[Akshay Kadam](https://github.com/Akshayykadam))
+[Akshay Kadam](https://github.com/Akshayykadam)
 
 ## Acknowledgments
 
